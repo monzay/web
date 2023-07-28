@@ -1,7 +1,7 @@
-import img1 from "./img/spider-man (5).png"
-import img2 from "./img/spider-man (3).png"
-import img3 from "./img/spider-man (1).png"
-import img4 from "./img/spider-man (4).png"
+import img1 from "./img-spider-man-web-obtimizadas/spider-man (5).png"
+import img2 from "./img-spider-man-web-obtimizadas/spider-man (3).png"
+import img3 from "./img-spider-man-web-obtimizadas/spider-man (1).png"
+import img4 from "./img-spider-man-web-obtimizadas/spider-man (4).png"
 export const history = [
   {
     id: 1,

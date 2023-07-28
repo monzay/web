@@ -1,10 +1,10 @@
 import "./app.css";
 import "animate.css";
-import fondoSpiderMan from "./img/fondo-spider-man-max.png";
-import spiderManPng from "./img/spider-man-max.png";
+import fondoSpiderMan from "./img-spider-man-web-obtimizadas/fondo-spider-man-max.png";
+import spiderManPng from "./img-spider-man-web-obtimizadas/spider-man-max.png";
 import { useEffect, useState, useRef } from "react";
 import { history } from "./info";
-import araña from "./img/araña-spider-man.png";
+import araña from "./img-spider-man-web-obtimizadas/araña-spider-man.png";
 
 
 export const App = () => {
